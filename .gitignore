@@ -6,4 +6,7 @@ scratch
 *#
 \#*
 config.json
+*.iml
+.idea/*
 MANIFEST.json
+atlassian-ide-plugin.xml
